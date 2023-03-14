@@ -30,6 +30,10 @@ public class ClassOfMain {
 	Student2 st3= new Student2(4,"shyam","fail");
 	session.save(st3);
 	
+
+	Student2 st4= new Student2(5,"hari","pass");
+	session.save(st4);
+	
 	
     
     //------------    
