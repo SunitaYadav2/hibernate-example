@@ -26,6 +26,9 @@ public class ClassOfMain {
 	Student2 st2= new Student2(3,"Ram","pass");
 	session.save(st2);
 	
+
+	Student2 st3= new Student2(4,"shyam","fail");
+	session.save(st3);
 	
 	
     
