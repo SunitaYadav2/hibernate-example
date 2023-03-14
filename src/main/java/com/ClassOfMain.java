@@ -31,8 +31,7 @@ public class ClassOfMain {
 	session.save(st3);
 	
 
-	Student2 st4= new Student2(5,"hari","pass");
-	session.save(st4);
+	
 	
 	
     
